@@ -1,4 +1,5 @@
 Algerian Forest Fires Analysis 🔥
+
 This project analyzes and predicts forest fires in Algeria using machine learning techniques on meteorological data.
 
 📁 Files
